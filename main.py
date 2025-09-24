@@ -1,9 +1,7 @@
 '''
 This file is for test and demonstration
 '''
-
-a = 1
-b = 5
-result = a/b
-print(result)
-print(a, "+", b, "=")
+a = 2
+b= 3
+name = input("what is your name? ")
+print(f"hello, {name}, {a} ")
